@@ -8,3 +8,4 @@ O StudyHub é uma aplicação web em desenvolvimento projetada para ajudar estud
 - HTML: estruturação do conteúdo e construção da página inicial, formulários, listas de tarefas e calendários.
 - CSS: estilização do layout, aplicando uma aparência limpa e moderna. Uso de media queries para garantir a responsividade do design.
 - Bootstrap 5: framework utilizado para garantir um layout responsivo e para facilitar o desenvolvimento de componentes como botões, formulários e grid system.
+
